@@ -1,16 +1,47 @@
-### Hi there 👋
+![Header](https://raw.githubusercontent.com/AndreyKhlestov/AndreyKhlestov/main/assets/programmer.webp)
 
-<!--
-**AndreyKhlestov/AndreyKhlestov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About me
+I am a Python developer who has implemented several dozen commercial projects, including creating functional Telegram bots and developing Django applications.
 
-Here are some ideas to get you started:
+📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://t.me/AndreyKhlestov" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</a>
+
+<a href="https://career.habr.com/andrey_khlestov" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Habr Career&logo=habr&label=&color=9370DB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="habr logo"  />
+</a>
+
+<a href="https://spb.hh.ru/resume/a1f6855aff0b2144200039ed1f43666c796663" target="_blank">
+<img src="https://anbo-opeka.org/wp-content/uploads/2023/10/hnp0b1zusolweha3qaoade9vgdetilk7.png" height="25" alt="hh logo"  />
+</a>
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%4682B4&font=Open+Sans&lines=Feel+free+to+contact+me+😉)](https://git.io/typing-svg)
+
+## 🛠 Languages and Tools
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-1f6e4b.svg?&style=flat&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/POSTGRESQL-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)
+![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-18897b.svg?&style=flat&logo=fastapi&logoColor=white)
+![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-%23121011.svg?&style=flat&logo=github-actions&logoColor=white)
+![GithubActions](https://img.shields.io/badge/POSTMAN-FF8C00.svg?&style=flat&logo=postman&logoColor=white)
+![GithubActions](https://img.shields.io/badge/FLASK-ADD8E6.svg?&style=flat&logo=flask&logoColor=white)
+
+## 🔥 Stats
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=andreykhlestov&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&show=prs_merged,reviews&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreykhlestov&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreykhlestov&hide_border=true&theme=transparent&bg_color=00000000)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=andreykhlestov&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
