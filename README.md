@@ -26,22 +26,25 @@ I am a Python developer who has implemented several dozen commercial projects, i
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/DJANGO-1f6e4b.svg?&style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/FLASK-ADD8E6.svg?&style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-18897b.svg?&style=flat&logo=fastapi&logoColor=white)
+
+![Html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS%20-2496ED.svg?&style=for-the-badge&logo=css3&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)
+![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-%23121011.svg?&style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)
+![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-%23121011.svg?&style=flat&logo=github-actions&logoColor=white)
+
 ![Postgres](https://img.shields.io/badge/POSTGRESQL-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)
-![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FASTAPI-18897b.svg?&style=flat&logo=fastapi&logoColor=white)
-![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-%23121011.svg?&style=flat&logo=github-actions&logoColor=white)
-![GithubActions](https://img.shields.io/badge/POSTMAN-FF8C00.svg?&style=flat&logo=postman&logoColor=white)
-![GithubActions](https://img.shields.io/badge/FLASK-ADD8E6.svg?&style=flat&logo=flask&logoColor=white)
+
 
 ## 🔥 Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=andreykhlestov&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&show=prs_merged,reviews&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreykhlestov&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreykhlestov&hide_border=true&theme=transparent&bg_color=00000000)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreykhlestov&hide_border=true&theme=transparent&bg_color=00000000)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andreykhlestov&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andreykhlestov&theme=modern-lilac)
