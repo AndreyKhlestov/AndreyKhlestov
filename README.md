@@ -1,7 +1,8 @@
 ![Header](https://raw.githubusercontent.com/AndreyKhlestov/AndreyKhlestov/main/assets/programmer.webp)
 
 ## 👩‍💻 About me
-I am a Python developer who has implemented several dozen commercial projects, including creating functional Telegram bots and developing Django applications.
+I am a seasoned Python developer with extensive experience in implementing numerous commercial projects. 
+My expertise includes creating functional Telegram bots and developing robust Django applications.
 
 📫 How to reach me:
 
